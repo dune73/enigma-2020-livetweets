@@ -127,6 +127,8 @@ https://twitter.com/nhfruchter/status/1222309670552924160
 
 https://twitter.com/LeaKissner/status/1222315832690147328
 
+https://twitter.com/nhfruchter/status/1222315640062529536
+
 
 ## Jennifer Helsby, Freedom of the Press Foundation: Next-Generation SecureDrop: Protecting Journalists from Malware
 
