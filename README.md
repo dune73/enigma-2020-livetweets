@@ -1,2 +1,5 @@
-# enigma-2020-livetweets
-An overview of links to livetweet threads and online articles covering the talks at the Usenix Enigma 2020
+# Livetweet threads and onine articles about the talks at Usenix Enigma 2020
+
+Website: https://www.usenix.org/conference/enigma2020
+
+Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_queryhttps://twitter.com/search?q=%23enigma2020&src=typed_query
