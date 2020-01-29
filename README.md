@@ -17,6 +17,8 @@ Panelists:
 
 https://twitter.com/LeaKissner/status/1221860574490849280
 
+https://www.theregister.co.uk/2020/01/27/clipper_lessons_learned/
+
 ## Filippo Valsorda, Google: Securing the Software Supply Chain
 
 https://twitter.com/LeaKissner/status/1221874853902315520
@@ -50,10 +52,14 @@ https://twitter.com/nhfruchter/status/1221923274679975936
 
 https://twitter.com/nhfruchter/status/1221931788412407808
 
+https://www.heise.de/newsticker/meldung/IMSI-Catcher-Warum-Ueberwacher-es-so-einfach-haben-4646749.html (German)
+
 
 ## Kavya Pearlman, XR Safety Initiative: Virtual Reality Brings Real Risks: Are We Ready?
 
 https://twitter.com/leakissner/status/1221947111530348545
+
+https://www.theregister.co.uk/2020/01/28/enigma_vr_security_risks/
 
 
 ## Nicolas Papernot, University of Toronto and Vector Institute: What Does It Mean for Machine Learning to Be Trustworthy?
