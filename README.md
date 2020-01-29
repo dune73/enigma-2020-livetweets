@@ -147,3 +147,27 @@ https://twitter.com/LeaKissner/status/1222322531958308864
 https://twitter.com/nhfruchter/status/1222322390606045184
 
 
+## Panel: Disinformation
+Moderator: Andrea Limbago, Virtru
+Panelists: 
+* Renee DiResta, New Knowledge and Data for Democracy;
+* Melanie Ensign, Uber;
+* Camille Francois, Graphika
+
+https://twitter.com/LeaKissner/status/1222564490450833409
+
+## Joey Dodds, Galois and Free & Fair: Trustworthy Elections
+
+## Laurin B. Weissinger, Yale University: Internet Infrastructure Security: A Casualty of Laissez-Faire and Multistakeholderism?
+
+## Eva Galperin, Electronic Frontier Foundation: The State of the Stalkerware
+
+## Mieke Eoyang: Cybercrime: Getting beyond Analog Cops and Digital Robbers
+
+## Birhanu Eshete, University of Michigan, Dearborn: Adventures with Cybercrime Toolkits: Insights for Pragmatic Defense
+
+## Swathi Joshi, Netflix: Reservist Model: Distributed Approach to Scaling Incident Response
+
+## David Freeman, Facebook: The Abuse Uncertainty Principle, and Other Lessons Learned from Measuring Abuse on the Internet
+ 
+  
