@@ -173,15 +173,17 @@ https://twitter.com/LeaKissner/status/1222599484552515584
 
 https://twitter.com/nhfruchter/status/1222599928955846656
 
-## Eva Galperin, Electronic Frontier Foundation: The State of the Stalkerware
-
-CANCELLED
-
 ## Mieke Eoyang: Cybercrime: Getting beyond Analog Cops and Digital Robbers
 
 https://twitter.com/LeaKissner/status/1222606242733912064
 
 https://twitter.com/nhfruchter/status/1222606972656054272
+
+## Eva Galperin, Electronic Frontier Foundation: The State of the Stalkerware
+
+https://twitter.com/LeaKissner/status/1222614313480814592
+
+https://twitter.com/nhfruchter/status/1222614324859953152
 
 ## Birhanu Eshete, University of Michigan, Dearborn: Adventures with Cybercrime Toolkits: Insights for Pragmatic Defense
 
