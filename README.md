@@ -169,6 +169,10 @@ https://twitter.com/nhfruchter/status/1222592171569639425
 
 ## Laurin B. Weissinger, Yale University: Internet Infrastructure Security: A Casualty of Laissez-Faire and Multistakeholderism?
 
+https://twitter.com/LeaKissner/status/1222599484552515584
+
+https://twitter.com/nhfruchter/status/1222599928955846656
+
 ## Eva Galperin, Electronic Frontier Foundation: The State of the Stalkerware
 
 ## Mieke Eoyang: Cybercrime: Getting beyond Analog Cops and Digital Robbers
