@@ -157,11 +157,13 @@ Panelists:
 * Camille Francois, Graphika
 
 https://twitter.com/LeaKissner/status/1222564490450833409
+
 https://twitter.com/nhfruchter/status/1222567104865427457
 
 ## Joey Dodds, Galois and Free & Fair: Trustworthy Elections
 
 https://twitter.com/LeaKissner/status/1222591914999865344
+
 https://twitter.com/nhfruchter/status/1222592171569639425
 
 
