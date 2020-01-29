@@ -19,6 +19,8 @@ https://twitter.com/LeaKissner/status/1221860574490849280
 
 https://www.theregister.co.uk/2020/01/27/clipper_lessons_learned/
 
+https://www.tomsguide.com/news/encryption-war-enigma-2020
+
 ## Filippo Valsorda, Google: Securing the Software Supply Chain
 
 https://twitter.com/LeaKissner/status/1221874853902315520
