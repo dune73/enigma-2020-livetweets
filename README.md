@@ -21,6 +21,8 @@ https://www.theregister.co.uk/2020/01/27/clipper_lessons_learned/
 
 https://www.tomsguide.com/news/encryption-war-enigma-2020
 
+https://www.law.com/briefings/whats-next/ (Newsletter, subscription needed)
+
 ## Filippo Valsorda, Google: Securing the Software Supply Chain
 
 https://twitter.com/LeaKissner/status/1221874853902315520
@@ -155,9 +157,13 @@ Panelists:
 * Camille Francois, Graphika
 
 https://twitter.com/LeaKissner/status/1222564490450833409
-https://twitter.com/nhfruchter/status/1222574071377907713
+https://twitter.com/nhfruchter/status/1222567104865427457
 
 ## Joey Dodds, Galois and Free & Fair: Trustworthy Elections
+
+https://twitter.com/LeaKissner/status/1222591914999865344
+https://twitter.com/nhfruchter/status/1222592171569639425
+
 
 ## Laurin B. Weissinger, Yale University: Internet Infrastructure Security: A Casualty of Laissez-Faire and Multistakeholderism?
 
