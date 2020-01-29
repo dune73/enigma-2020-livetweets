@@ -64,7 +64,141 @@ https://twitter.com/LeaKissner/status/1221954055464861696
 
 ## Sadia Afroz, ICSI, Avast: How to Build Realistic Machine Learning Systems for Security?
 
-httpos://twitter.com/LeaKissner/status/1221961345332989952
+http68
+
+​
+
+69
+
+​
+
+70
+
+## Panel: Browser Privacy: Opportunities and Tradeoffs
+
+71
+
+Moderator: Dr. Lea Kissner, Humu
+
+72
+
+Panelists: 
+
+73
+
+* Justin Schuh, Google;
+
+74
+
+* Tanvi Vyas, Mozilla;
+
+75
+
+* Yan Zhu, Brave;
+
+76
+
+* Eric Lawrence, Microsoft
+
+77
+
+​
+
+78
+
+https://twitter.com/aalvatar/status/1222203431760228352
+
+79
+
+​
+
+80
+
+https://www.cnet.com/news/if-chrome-fixes-privacy-too-fast-it-could-break-the-web-google-exec-warns/
+
+81
+
+​
+
+82
+
+​
+
+83
+
+## Annalisa Nash Fernandez, Intercultural Strategist: Data as a Social Science: Cultural Elements in Privacy and Security
+
+84
+
+​
+
+85
+
+https://twitter.com/nhfruchter/status/1222232990765289473
+
+86
+
+​
+
+87
+
+​
+
+88
+
+## L. Jean Camp, Indiana University: All Security Is Good(s): Design Guidance for Economics
+
+89
+
+​
+
+90
+
+https://twitter.com/LeaKissner/status/1222237360974225408
+
+91
+
+​
+
+92
+
+​
+
+93
+
+## Steven Buccini, Aspen Institute Tech Policy Hub: Platform Data Privacy & Security Strategies for Public Interest Research
+
+94
+
+​
+
+95
+
+https://twitter.com/LeaKissner/status/1222245364448653312
+
+96
+
+​
+
+97
+
+https://twitter.com/nhfruchter/status/1222248607308378113
+
+98
+
+​
+
+99
+
+## Matt Bishop, Department of Computer Science, University of California, Davis: How Anonymous Is My Anonymized Data?
+
+100
+
+​
+
+101
+
+https://twitter.com/nhfruchter/status/1222271766216577024s://twitter.com/LeaKissner/status/1221961345332989952
 
 
 ## Panel: Browser Privacy: Opportunities and Tradeoffs
