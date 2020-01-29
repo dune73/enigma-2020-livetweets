@@ -197,5 +197,8 @@ https://twitter.com/nhfruchter/status/1222646867680301056
 
 ## David Freeman, Facebook: The Abuse Uncertainty Principle, and Other Lessons Learned from Measuring Abuse on the Internet
  
+https://twitter.com/LeaKissner/status/1222653317655846912
+
+https://twitter.com/nhfruchter/status/1222653532584607745
   
 **This list is released via the Creative Commons "Attribution 4.0 International" license.**
