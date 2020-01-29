@@ -60,6 +60,8 @@ https://twitter.com/leakissner/status/1221947111530348545
 
 https://twitter.com/LeaKissner/status/1221954055464861696
 
+https://www.heise.de/newsticker/meldung/Machine-Unlearning-Algorithmen-koennen-nichts-vergessen-4646747.html (German)
+
 
 
 ## Sadia Afroz, ICSI, Avast: How to Build Realistic Machine Learning Systems for Security?
