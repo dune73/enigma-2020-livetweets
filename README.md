@@ -4,7 +4,7 @@ Website: https://www.usenix.org/conference/enigma2020
 
 Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_query
 
-**A huge thank you to [@LeaKissner](https://twitter.com/LeaKissner) and [@nhfruchter](https://twitter.com/nhfruchter) for the huge effort put into live tweeting the conference.**
+**A huge thank you to [@LeaKissner](https://twitter.com/LeaKissner) and [@nhfruchter](https://twitter.com/nhfruchter) for the tremendous effort put into live tweeting the conference.**
 
 
 ## Panel: Encrypted Messaging
