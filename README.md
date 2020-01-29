@@ -32,7 +32,7 @@ https://twitter.com/LeaKissner/status/1221881504357240832
 
 ## Francis Guibernau, Deloitte: Catch Me If You Can!—Detecting Sandbox Evasion Techniques
 
-NO LIVE TWEET
+No live tweet
 
 ## Brandon Baker, Google: BeyondProd: The Origin of Cloud-Native Security at Google
 
@@ -51,7 +51,7 @@ https://twitter.com/nhfruchter/status/1221931788412407808
 
 ## Kavya Pearlman, XR Safety Initiative: Virtual Reality Brings Real Risks: Are We Ready?
 
-NO LIVE TWEET
+No live tweet
 
 ## Nicolas Papernot, University of Toronto and Vector Institute: What Does It Mean for Machine Learning to Be Trustworthy?
 
@@ -84,7 +84,7 @@ https://twitter.com/LeaKissner/status/1221881504357240832
 
 ## Francis Guibernau, Deloitte: Catch Me If You Can!—Detecting Sandbox Evasion Techniques
 
-NO LIVE TWEET
+No live tweet
 
 ## Brandon Baker, Google: BeyondProd: The Origin of Cloud-Native Security at Google
 
@@ -103,8 +103,7 @@ https://twitter.com/nhfruchter/status/1221931788412407808
 
 ## Kavya Pearlman, XR Safety Initiative: Virtual Reality Brings Real Risks: Are We Ready?
 
-	NO LIVE TWEET
-
+No live tweets
 
 ## Nicolas Papernot, University of Toronto and Vector Institute: What Does It Mean for Machine Learning to Be Trustworthy?
 
