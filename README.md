@@ -123,6 +123,15 @@ https://twitter.com/LeaKissner/status/1222309611249647618
 
 https://twitter.com/nhfruchter/status/1222309670552924160
 
+## Sanchari Das, Ph.D. Candidate and Information Security Engineer: Eyes in Your Child's Bedroom: Exploiting Child Data Risks with Smart Toys
 
+https://twitter.com/LeaKissner/status/1222315832690147328
+
+
+## Jennifer Helsby, Freedom of the Press Foundation: Next-Generation SecureDrop: Protecting Journalists from Malware
+
+https://twitter.com/LeaKissner/status/1222322531958308864
+
+https://twitter.com/nhfruchter/status/1222322390606045184
 
 
