@@ -187,7 +187,13 @@ https://twitter.com/nhfruchter/status/1222614324859953152
 
 ## Birhanu Eshete, University of Michigan, Dearborn: Adventures with Cybercrime Toolkits: Insights for Pragmatic Defense
 
+https://twitter.com/LeaKissner/status/1222641200919764992
+
+https://twitter.com/nhfruchter/status/1222642910186762240
+
 ## Swathi Joshi, Netflix: Reservist Model: Distributed Approach to Scaling Incident Response
+
+https://twitter.com/nhfruchter/status/1222646867680301056
 
 ## David Freeman, Facebook: The Abuse Uncertainty Principle, and Other Lessons Learned from Measuring Abuse on the Internet
  
