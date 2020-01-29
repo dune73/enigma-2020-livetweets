@@ -4,7 +4,7 @@ Website: https://www.usenix.org/conference/enigma2020
 
 Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_query
 
-**A huge thank you to [https://twitter.com/LeaKissner](@LeaKissner) and [https://twitter.com/nhfruchter](@nhfruchter) for the huge effort put into live tweeting the conference.**
+**A huge thank you to (@LeaKissner)[https://twitter.com/LeaKissner] and (@nhfruchter)[https://twitter.com/nhfruchter] for the huge effort put into live tweeting the conference.**
 
 
 ## Panel: Encrypted Messaging
@@ -53,7 +53,7 @@ https://twitter.com/nhfruchter/status/1221931788412407808
 
 ## Kavya Pearlman, XR Safety Initiative: Virtual Reality Brings Real Risks: Are We Ready?
 
-No live tweets
+https://twitter.com/leakissner/status/1221947111530348545
 
 
 ## Nicolas Papernot, University of Toronto and Vector Institute: What Does It Mean for Machine Learning to Be Trustworthy?
