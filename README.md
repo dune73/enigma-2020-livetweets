@@ -155,6 +155,7 @@ Panelists:
 * Camille Francois, Graphika
 
 https://twitter.com/LeaKissner/status/1222564490450833409
+https://twitter.com/nhfruchter/status/1222574071377907713
 
 ## Joey Dodds, Galois and Free & Fair: Trustworthy Elections
 
@@ -171,3 +172,4 @@ https://twitter.com/LeaKissner/status/1222564490450833409
 ## David Freeman, Facebook: The Abuse Uncertainty Principle, and Other Lessons Learned from Measuring Abuse on the Internet
  
   
+**This list is released via the Creative Commons "Attribution 4.0 International" license.**
