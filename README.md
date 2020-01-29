@@ -185,6 +185,8 @@ https://twitter.com/LeaKissner/status/1222614313480814592
 
 https://twitter.com/nhfruchter/status/1222614324859953152
 
+https://twitter.com/IanColdwater/status/1222615224861130752
+
 ## Birhanu Eshete, University of Michigan, Dearborn: Adventures with Cybercrime Toolkits: Insights for Pragmatic Defense
 
 https://twitter.com/LeaKissner/status/1222641200919764992
