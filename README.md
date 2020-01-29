@@ -4,6 +4,9 @@ Website: https://www.usenix.org/conference/enigma2020
 
 Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_query
 
+**A huge thank you to [https://twitter.com/LeaKissner](@LeaKissner) and [https://twitter.com/nhfruchter](@nhfruchter) for the huge effort put into live tweeting the conference.**
+
+
 ## Panel: Encrypted Messaging
 Moderator: Jon Callas, Senior Technology Fellow, ACLU
 
