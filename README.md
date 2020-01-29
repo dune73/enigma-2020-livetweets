@@ -1,11 +1,11 @@
 # Livetweet threads and online articles about the talks at Usenix Enigma 2020
 
-Website: https://www.usenix.org/conference/enigma2020
-
-Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_query
+* Website: https://www.usenix.org/conference/enigma2020
+* Twitter hashtag search (#enigma2020): https://twitter.com/search?q=%23enigma2020&src=typed_query
 
 **A huge thank you to [@LeaKissner](https://twitter.com/LeaKissner) and [@nhfruchter](https://twitter.com/nhfruchter) for the tremendous effort put into live tweeting the conference.**
 
+If I miss anything, then please let me know. You can reach me via DM at [@ChrFolini](https://twitter.com/ChrFolini) or [folini@netnea.com](mailto:folini@netnea.com).
 
 ## Panel: Encrypted Messaging
 Moderator: Jon Callas, Senior Technology Fellow, ACLU
