@@ -100,6 +100,8 @@ https://twitter.com/nhfruchter/status/1222232990765289473
 
 https://twitter.com/LeaKissner/status/1222237360974225408
 
+https://www.heise.de/newsticker/meldung/Bongo-gegen-BGP-Hijacking-Wohin-lassen-Sie-Ihre-Daten-fliessen-4647808.html (German)
+
 
 ## Steven Buccini, Aspen Institute Tech Policy Hub: Platform Data Privacy & Security Strategies for Public Interest Research
 
