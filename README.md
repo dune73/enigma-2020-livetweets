@@ -23,6 +23,8 @@ https://www.tomsguide.com/news/encryption-war-enigma-2020
 
 https://www.law.com/briefings/whats-next/ (Newsletter, subscription needed)
 
+https://duo.com/decipher/experts-worry-crypto-war-two-may-go-the-other-way
+
 ## Filippo Valsorda, Google: Securing the Software Supply Chain
 
 https://twitter.com/LeaKissner/status/1221874853902315520
@@ -89,6 +91,8 @@ Panelists:
 https://twitter.com/aalvatar/status/1222203431760228352
 
 https://www.cnet.com/news/if-chrome-fixes-privacy-too-fast-it-could-break-the-web-google-exec-warns/
+
+https://duo.com/decipher/better-privacy-through-collaboration
 
 
 ## Annalisa Nash Fernandez, Intercultural Strategist: Data as a Social Science: Cultural Elements in Privacy and Security
